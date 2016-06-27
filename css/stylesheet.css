@@ -42,7 +42,7 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 .centered{margin:0 auto}
 #nav{background:#fff;text-transform:uppercase}
 .navbar-custom{margin-bottom:0;background-color:#353e47}
-.navbar-custom .navbar-brand{margin-top:17px;padding:0;margin-left:0}
+/*.navbar-custom .navbar-brand{margin-top:17px;padding:0;margin-left:0}*/
 .navbar > .container .navbar-brand,.navbar > .container-fluid .navbar-brand{margin-left:0}
 .navbar-custom .navbar-brand i.fa{color:#F4D03F}
 .navbar-custom .navbar-brand:focus{outline:0}
@@ -94,7 +94,7 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 .join-us .ceo3{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_three.png) no-repeat;background-size:100%}
 .join-us .ceo img{margin-right:auto;margin-left:auto;padding-left:4px;width:270px}
 .join-us .carousel-indicators{position:relative;bottom:0;left:0;margin-bottom:0;margin-left:0;padding:5px;padding-bottom:8px;width:100%;margin-top:-15px;color:#ccc}
-.join-us .carousel-indicators .active{width:16px;height:16px;border:none;border-radius:30px;background:#00a9da}
+/*.join-us .carousel-indicators .active{width:16px;height:16px;border:none;border-radius:30px;background:#00a9da}*/
 .join-us .carousel-indicators li{display:inline-block;margin:1px;width:16px;height:16px;border:none;border-radius:30px;text-indent:-999px;cursor:pointer;background:#ccc}
 .btn-top{border-radius:10px;background:#fff;color:#00a9da;font-size:20px;font-weight:400;padding:20px 50px;margin-top:25px;text-transform:uppercase}
 .top-download{padding:40px 0;line-height:28px}
@@ -150,7 +150,8 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 /*.services-icon-wrap{padding:30px 20px;background:#fff;border-radius:40px;margin:0 0 30px;border:1px solid #dfdfdf}*/
 .services-icon-wrap h3{font-size:18px;margin:10px 0;text-transform:uppercase;font-weight:600}
 .services-icon-wrap .pull-left{margin-right:20px}
-.services-icon-wrap:hover{background:#f7f8f9;border:1px solid #dfdfdf}
+/*.services-icon-wrap:hover{background:#f7f8f9;border:1px solid #dfdfdf}*/
+
 .services-icon-wrap .pull-left img:hover{cursor:pointer;-webkit-transform:scale(1.30);transform:scale(1.30);transform:rotate(47deg);}
 #services{padding:60px 0;background:#fff}
 
@@ -634,3 +635,15 @@ to{background-position:100% 0}
 .footer-widget-social a{background-color:#FEE719;border-radius:30px;color:#fff;font-size:16px;line-height:1.3;padding:10px;text-align:center;width:40px;height:40px;float:left;margin:0 3px}
 .services-icon-wrap{padding:30px 20px;background:#f1f1f1;border-radius:40px;margin:0 0 30px;border:1px solid #dfdfdf}
 .hi-icon-effect-8 .hi-icon{background:#FEE719;transition:transform .1s ease-out 0s,background .2s ease 0}
+.navbar-custom .navbar-brand{margin-top:2px;padding:0;margin-left:0}
+.toUpper{text-transform: uppercase;}
+.font-size-20{font-size: 20px !important}
+.font-size-23{font-size: 23px !important}
+.font-size-15{font-size: 15px !important}
+.join-us .carousel-indicators .active{width:16px;height:16px;border:none;border-radius:30px;background:#FEE719}
+.services-icon-wrap:hover{background:#dedede;border:1px solid #dfdfdf}
+.pro-btn{
+	font-size:16px !important;
+}
+ #Kick-start-pro{ padding: 60px 0 80px;
+       background: #f1f1f1;}
