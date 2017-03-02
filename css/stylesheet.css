@@ -90,8 +90,8 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 #accordion1 .panel-default p{text-align:justify}
 .detail .carousel-control{background:none}
 .join-us .ceo{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_one.png) no-repeat;background-size:100%}
-.join-us .ceo2{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_two.png) no-repeat;background-size:100%}
-.join-us .ceo3{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_three.png) no-repeat;background-size:100%}
+/*.join-us .ceo2{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_two.png) no-repeat;background-size:100%}*/
+.join-us .ceo3{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_three.jpg) no-repeat;background-size:100%}
 .join-us .ceo img{margin-right:auto;margin-left:auto;padding-left:4px;width:270px}
 .join-us .carousel-indicators{position:relative;bottom:0;left:0;margin-bottom:0;margin-left:0;padding:5px;padding-bottom:8px;width:100%;margin-top:-15px;color:#ccc}
 /*.join-us .carousel-indicators .active{width:16px;height:16px;border:none;border-radius:30px;background:#00a9da}*/
@@ -109,7 +109,7 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 #contact .btn-download{display:inline-block;border:2px solid #fff;padding:12px 30px;background:#fff;color:#00A9DA;font-size:18px;font-weight:500;text-shadow:none;border-radius:6px;text-decoration:none;-webkit-transition:all .6s ease 0;transition:all .6s ease 0;text-transform:uppercase;max-width:100%;width:210px}
 #contact .btn-download:hover{background-color:transparent;border:2px solid #fff;color:#fff;text-decoration:none;display:inline-block}
 #contact .btn-download:focus{color:#353e47}
-.btn-get{background:#F5C026;display:inline-block;padding:12px 30px;border:2px solid #F5C026;color:#fff;font-size:18px;text-shadow:none;border-radius:6px;text-decoration:none;-webkit-transition:all .6s ease 0;transition:all .6s ease 0;margin:25px 10px 0;text-transform:uppercase;max-width:100%;width:210px;font-weight:500}
+/*.btn-get{background:#F5C026;display:inline-block;padding:12px 30px;border:2px solid #F5C026;color:#fff;font-size:18px;text-shadow:none;border-radius:6px;text-decoration:none;-webkit-transition:all .6s ease 0;transition:all .6s ease 0;margin:25px 10px 0;text-transform:uppercase;max-width:100%;width:210px;font-weight:500}*/
 .btn-get:hover{background-color:transparent;color:#f5c026;text-decoration:none;display:inline-block}
 .btn-get:focus{color:#f5c026}
 .btn-download-black{font-weight:600;display:inline-block;border:1px solid #00a9da;padding:20px 30px;background:#00a9da;color:#353e47;font-size:18px;text-shadow:none;border-radius:0;text-decoration:none;-webkit-transition:all .6s ease 0;transition:all .6s ease 0;text-transform:uppercase;max-width:100%;width:225px}
@@ -645,5 +645,14 @@ to{background-position:100% 0}
 .pro-btn{
 	font-size:16px !important;
 }
+
  #Kick-start-pro{ padding: 60px 0 80px;
        background: #f1f1f1;}
+
+.join-us .ceo2{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_two.png) no-repeat;background-size:100%}
+.btn-get{background:#FEE719;display:inline-block;padding:12px 30px;border:2px solid #FEE719;color:#fff;font-size:18px;text-shadow:none;border-radius:6px;text-decoration:none;-webkit-transition:all .6s ease 0;transition:all .6s ease 0;margin:25px 10px 0;text-transform:uppercase;max-width:100%;width:210px;font-weight:500}
+.btn-get:focus{color:#FEE719}
+
+.tp-caption.text-sm{
+	font-size: 25px!important;
+}
