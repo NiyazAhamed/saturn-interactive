@@ -651,3 +651,7 @@ to{background-position:100% 0}
 .join-us .ceo2{overflow:hidden;margin-right:auto;margin-left:auto;padding-top:95px;height:610px;background:url(../img/ceo_two.png) no-repeat;background-size:100%}
 .btn-get{background:#FEE719;display:inline-block;padding:12px 30px;border:2px solid #FEE719;color:#fff;font-size:18px;text-shadow:none;border-radius:6px;text-decoration:none;-webkit-transition:all .6s ease 0;transition:all .6s ease 0;margin:25px 10px 0;text-transform:uppercase;max-width:100%;width:210px;font-weight:500}
 .btn-get:focus{color:#FEE719}
+
+.tp-caption.text-sm{
+	font-size: 25px!important;
+}
